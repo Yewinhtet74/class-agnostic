@@ -1,0 +1,41 @@
+CROPPING STATISTICS
+==================================================
+
+TRAIN:
+  0: 79337 objects
+  1: 27058 objects
+  2: 10480 objects
+  3: 144865 objects
+  4: 24956 objects
+  5: 12875 objects
+  6: 4812 objects
+  7: 3246 objects
+  8: 5926 objects
+  9: 29647 objects
+  Total: 343202 objects
+
+VAL:
+  0: 8844 objects
+  1: 5125 objects
+  2: 1287 objects
+  3: 14064 objects
+  4: 1975 objects
+  5: 750 objects
+  6: 1045 objects
+  7: 532 objects
+  8: 251 objects
+  9: 4886 objects
+  Total: 38759 objects
+
+TEST:
+  0: 21006 objects
+  1: 6376 objects
+  2: 1302 objects
+  3: 28074 objects
+  4: 5771 objects
+  5: 2659 objects
+  6: 530 objects
+  7: 599 objects
+  8: 2940 objects
+  9: 5845 objects
+  Total: 75102 objects
